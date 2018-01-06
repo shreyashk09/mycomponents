@@ -1,0 +1,14 @@
+/home/shreyashk/robocomp/components/mycomp/build/CMakeFiles/install.dir
+/home/shreyashk/robocomp/components/mycomp/build/CMakeFiles/list_install_components.dir
+/home/shreyashk/robocomp/components/mycomp/build/CMakeFiles/install/strip.dir
+/home/shreyashk/robocomp/components/mycomp/build/CMakeFiles/install/local.dir
+/home/shreyashk/robocomp/components/mycomp/build/CMakeFiles/rebuild_cache.dir
+/home/shreyashk/robocomp/components/mycomp/build/CMakeFiles/edit_cache.dir
+/home/shreyashk/robocomp/components/mycomp/build/src/CMakeFiles/install.dir
+/home/shreyashk/robocomp/components/mycomp/build/src/CMakeFiles/list_install_components.dir
+/home/shreyashk/robocomp/components/mycomp/build/src/CMakeFiles/rebuild_cache.dir
+/home/shreyashk/robocomp/components/mycomp/build/src/CMakeFiles/MyFirstComp.dir
+/home/shreyashk/robocomp/components/mycomp/build/src/CMakeFiles/install/strip.dir
+/home/shreyashk/robocomp/components/mycomp/build/src/CMakeFiles/install/local.dir
+/home/shreyashk/robocomp/components/mycomp/build/src/CMakeFiles/edit_cache.dir
+/home/shreyashk/robocomp/components/mycomp/build/src/CMakeFiles/MyFirstComp_automoc.dir
